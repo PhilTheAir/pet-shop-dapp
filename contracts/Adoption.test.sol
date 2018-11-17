@@ -2,7 +2,7 @@ pragma solidity ^0.4.17;
 
 import "truffle/Assert.sol";
 import "truffle/DeployedAddresses.sol";
-import "../contracts/Adoption.sol";
+import "./Adoption.sol";
 
 contract TestAdoption {
   // The address of the adoption contract to be tested
